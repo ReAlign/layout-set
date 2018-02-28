@@ -7,3 +7,4 @@
 ***
 
 * [基于 bootstrap 实现可视化布局](https://github.com/ReAlign/layoutit)
+* [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
