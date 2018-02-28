@@ -10,3 +10,4 @@
 * [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
 * [A drag and drop GUI builder and code generator for Salesforce Lightning Component Framework](https://github.com/vignaesh01/lightning-ui-builder)
 * [Structor - React UI Builder](https://github.com/ipselon/structor)
+* [React UI Builder](https://github.com/Dmytro-Medzatiy/react-ui-builder)
