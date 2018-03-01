@@ -6,7 +6,7 @@
 
 ***
 
-* [基于 bootstrap 实现可视化布局](https://github.com/ReAlign/layoutit)
+* [基于 bootstrap 实现可视化布局](https://github.com/ReAlign/layoutit)  暂未开源
 * [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
 * [A drag and drop GUI builder and code generator for Salesforce Lightning Component Framework](https://github.com/vignaesh01/lightning-ui-builder)
 * [Structor - React UI Builder](https://github.com/ipselon/structor)
