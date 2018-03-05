@@ -12,3 +12,4 @@
 * [Structor - React UI Builder](https://github.com/ipselon/structor)
 * [React UI Builder](https://github.com/Dmytro-Medzatiy/react-ui-builder)
 * [a dragger layout system with React style](https://github.com/215566435/Dragact)
+* [A jQuery plugin for drag and drop form creation](https://github.com/kevinchappell/formBuilder)
