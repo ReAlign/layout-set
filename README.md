@@ -16,3 +16,4 @@
 * [A jQuery plugin for drag and drop form creation](https://github.com/kevinchappell/formBuilder)
 * [A builder application for formly-js for drag-and-drop form creation which outputs the necessary JSON for the form.](https://github.com/formly-js/formly-builder)
 * [A bootstrap 3.0 form drag and drop builder, implemented in Jquery](https://github.com/tonytan4ever/Bootstrap-Form-Builder-V3V4)
+* [fbuilder](http://www.shindiristudio.com/fbuilder/)
